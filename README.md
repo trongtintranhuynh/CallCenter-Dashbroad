@@ -3,7 +3,7 @@
 2 🧩 Project Name: `Call Performance Dashboard`
 
 2.1 🚀 Description
-This project provides a structured analytics dashboard for monitoring employee call performance in customer support centers or sales teams. It analyzes data including total calls, reached calls, average duration, successful deals, and deal values.
+This project provides a structured analytics dashboard for monitoring employee call performance in customer support centers. It analyzes data including total calls, reached calls, average duration, successful deals, and deal values.
 
 The system is designed to visualize key performance indicators (KPIs) via interactive dashboards (in Excel or Power BI), making it easy for managers to evaluate individual and team performance.
 
