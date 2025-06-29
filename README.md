@@ -9,7 +9,6 @@ The system is designed to visualize key performance indicators (KPIs) via intera
 
 2.2 🛠️ Technologies Used
 - 📊 Microsoft Excel (Power Query, Power Pivot, Interactive Dashboards)
-- 📈 Power BI (for scalable reporting and visualization)
 - 📁 Data Source: `.xlsx` Excel file with multiple sheets
 
 2.3 📂 File Structure
